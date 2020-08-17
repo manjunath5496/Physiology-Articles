@@ -93,6 +93,14 @@ Microbiota</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(57).pdf" style="text-decoration:none;"> Reductions in expression of growth regulating genes in skeletal muscle with age in wild type and myostatin null mice</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(58).pdf" style="text-decoration:none;">Sympathoactivation and rho-kinase-dependent baroreflex function in experimental renovascular hypertension with reduced kidney mass</a></li> 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(59).pdf" style="text-decoration:none;"> Pathophysiology of COVID-19:
+Mechanisms Underlying Disease Severity and Progression </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(60).pdf" style="text-decoration:none;">Physiology in Perspective: A Key Role of Physiology in Understanding COVID-19</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(61).pdf" style="text-decoration:none;"> HY5 suppresses, rather than promotes, ABA-mediated inhibition of post-germination seedling development</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/psy(62).pdf" style="text-decoration:none;">Slow development restores the fertility of photoperiod-sensitive male-sterile plant lines</a></li> 
+
+
 
 
 
