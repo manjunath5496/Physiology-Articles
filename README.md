@@ -18,6 +18,19 @@ Microbiota</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(8).pdf" style="text-decoration:none;"> Effect of sodium flouride and magnesium chloride and its interaction on seedling growth of Medicago Sativa, Anand, Gujarat </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(9).pdf" style="text-decoration:none;">Euro Nephrology 2019: Pathophysiology of proteinuria in the early period of Alloxan-induced experimental diabetes- Olenovych Olha- Bukovinian State Medical University</a></li>
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(10).pdf" style="text-decoration:none;">Gastro Congress 2019: Pathophysiology and management of "Esophageal Varices" in current practice - Balwant Singh Gill- Dr MGR Medical University</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(11).pdf" style="text-decoration:none;">Nail Changes in Chilblains Mimicking Lichen Planus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(12).pdf" style="text-decoration:none;">Neurology Congress 2020: Effect of transcranial direct current stimulation on cerebral blood flow in patients with cerebral palsy - Kateryna Yatsenko - Bogomoletz Institute of Physiology of NAS of Ukraine</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(13).pdf" style="text-decoration:none;">Pathophysiology and Management of Type 1 Diabetes Patients</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(14).pdf" style="text-decoration:none;">Physiology of behavior within chronic behavior patterns and Parkinson's disease</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(15).pdf" style="text-decoration:none;">The Impact of Physical Exercise on Brain Health and Physiology of Depressed Individuals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(16).pdf" style="text-decoration:none;">To a holistic classification in medical theory and education</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(8).pdf" style="text-decoration:none;"> Effect of sodium flouride and magnesium chloride and its interaction on seedling growth of Medicago Sativa, Anand, Gujarat </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(9).pdf" style="text-decoration:none;">Euro Nephrology 2019: Pathophysiology of proteinuria in the early period of Alloxan-induced experimental diabetes- Olenovych Olha- Bukovinian State Medical University</a></li>
+  
 
 
 
