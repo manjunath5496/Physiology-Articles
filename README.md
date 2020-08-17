@@ -68,6 +68,32 @@ Microbiota</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(42).pdf" style="text-decoration:none;">Potts Shunt in Patients with Suprasystemic Pulmonary Arterial Hypertension: Does the Size Matter?</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(43).pdf" style="text-decoration:none;"> The antioxidant response of the liver of male Swiss mice raised on a AIN 93 or commercial diet </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(44).pdf" style="text-decoration:none;">Importance of uncharged polar residues and proline in the proximal two-thirds (Pro<sup>107</sup>–Ser<sup>128</sup>) of the highly conserved region of mouse ileal Na<sup>+</sup>-dependent bile acid transporter, Slc10a2, in transport activity and cellular expression</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(45).pdf" style="text-decoration:none;">Quinine controls body weight gain without affecting food intake in male C57BL6 mice</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(46).pdf" style="text-decoration:none;">cAMP-stimulated Cl<sup>-</sup> secretion is increased by glucocorticoids and inhibited by bumetanide in semicircular canal duct epithelium</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(47).pdf" style="text-decoration:none;"> Liver-derived endocrine IGF-I is not critical for activation of skeletal muscle protein synthesis following oral feeding </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(48).pdf" style="text-decoration:none;">Significance of K<sub>ATP</sub> channels, L-type Ca<sup>2+</sup> channels and CYP450-4A enzymes in oxygen sensing in mouse cremaster muscle arterioles In vivo</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(49).pdf" style="text-decoration:none;"> Dynamically regulated miRNA-mRNA networks revealed by exercise</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(50).pdf" style="text-decoration:none;">Estrogen-related receptor β deficiency alters body composition and response to restraint stress</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(51).pdf" style="text-decoration:none;"> Overtraining is associated with DNA damage in blood and skeletal muscle cells of Swiss mice </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(52).pdf" style="text-decoration:none;">The endotoxin/toll-like receptor-4 axis mediates gut microvascular dysfunction associated with post-prandial lipidemia</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(53).pdf" style="text-decoration:none;"> RETRACTION NOTE: The effect of marathon on mRNA expression of anti-apoptotic and pro-apoptotic proteins and sirtuins family in male recreational long-distance runners</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(54).pdf" style="text-decoration:none;">Inference of mechanical states of intestinal motor activity using hidden Markov models</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(55).pdf" style="text-decoration:none;"> Kcnq1-5 (Kv7.1-5) potassium channel expression in the adult zebrafish </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(56).pdf" style="text-decoration:none;">Cardiac responses to elevated seawater temperature in Atlantic salmon</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(57).pdf" style="text-decoration:none;"> Reductions in expression of growth regulating genes in skeletal muscle with age in wild type and myostatin null mice</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(58).pdf" style="text-decoration:none;">Sympathoactivation and rho-kinase-dependent baroreflex function in experimental renovascular hypertension with reduced kidney mass</a></li>
+
+
+
 
 
 
