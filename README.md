@@ -32,6 +32,18 @@ Microbiota</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(18).pdf" style="text-decoration:none;">The Importance of Vascular System in Long Bone is Far from Well Known</a></li>
   
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(19).pdf" style="text-decoration:none;">The Socio Economic Factors that Promote Maternal Health Seeking Behavior among Ethiopian Rural Women: The Case of Raya Alamata District</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(20).pdf" style="text-decoration:none;">The Ups and Downs of Retinoic Acid Signaling in Early Inner Ear Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(13).pdf" style="text-decoration:none;">Pathophysiology and Management of Type 1 Diabetes Patients</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(14).pdf" style="text-decoration:none;">Physiology of behavior within chronic behavior patterns and Parkinson's disease</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(15).pdf" style="text-decoration:none;">The Impact of Physical Exercise on Brain Health and Physiology of Depressed Individuals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(16).pdf" style="text-decoration:none;">To a holistic classification in medical theory and education</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(17).pdf" style="text-decoration:none;"> Comparative effects of Catha edulis and methyl phenidate on spatial working memory and reference memory in rats </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(18).pdf" style="text-decoration:none;">The Importance of Vascular System in Long Bone is Far from Well Known</a></li>
+
+
 
 
  </ul>
