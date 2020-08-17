@@ -29,7 +29,7 @@ Microbiota</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(16).pdf" style="text-decoration:none;">To a holistic classification in medical theory and education</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(17).pdf" style="text-decoration:none;"> Comparative effects of Catha edulis and methyl phenidate on spatial working memory and reference memory in rats </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(9).pdf" style="text-decoration:none;">Euro Nephrology 2019: Pathophysiology of proteinuria in the early period of Alloxan-induced experimental diabetes- Olenovych Olha- Bukovinian State Medical University</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physiology-Articles/blob/master/pys(18).pdf" style="text-decoration:none;">The Importance of Vascular System in Long Bone is Far from Well Known</a></li>
   
 
 
